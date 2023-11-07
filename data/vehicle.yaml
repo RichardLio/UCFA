@@ -1,0 +1,2 @@
+nc:  6 # number of classes
+names: ['car','truck','bus','person','fire','smoke']  # class names
